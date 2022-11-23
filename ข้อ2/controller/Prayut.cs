@@ -1,12 +1,6 @@
 public class Prayut
 {
         Queue<int> list = new Queue<int>();
- enum Prayut
- {
-    L = 1,
-    M = 2,
-    S = 3,
- }  
         char Input()
         {
             Console.WriteLine("");
@@ -53,26 +47,26 @@ public class Prayut
             for (int i = 0; i < x; i++)
             {
                 int n = list.Get(i);
-                if (n == Prayut.L)
+                if (n == 1)
                 {
-                    list.Push(Prayut.M);
-                    list.Push(Prayut.M);
-                    list.Push(Prayut.S);
-                    list.Push(Prayut.S);
-                    list.Push(Prayut.S);
-                    list.Push(Prayut.S);
-                    list.Push(Prayut.S);
-                    list.Push(Prayut.S);
+                    list.Push(2);
+                    list.Push(2);
+                    list.Push(3);
+                    list.Push(3);
+                    list.Push(3);
+                    list.Push(3);
+                    list.Push(3);
+                    list.Push(3);
                 }
-                if (n == Prayut.M)
+                if (n == 2)
                 {
-                    list.Push(Prayut.S);
-                    list.Push(Prayut.S);
-                    list.Push(Prayut.S);
+                    list.Push(3);
+                    list.Push(3);
+                    list.Push(3);
                 }
-                if (n == Prayut.S)
+                if (n == 3)
                 {
-                    list.Push(Prayut.S);
+                    list.Push(3);
                 }
                 
             }
