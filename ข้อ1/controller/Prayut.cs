@@ -95,11 +95,20 @@ public class Prayut
                 {
                     return false;             
                 }
-                if (list.Get(0) == x && list.Get(n-3) == x)
+                if (list.Get(0) == x && list.Get(n-1) == x && list.Get(n-2) == x)
                 {
                     return false;             
                 }
+                if (list.Get(0) == x && list.Get(1) == x && list.Get(n-1) == x)
+                {
+                    return false;             
+                }
+                else
+                {
+                    list.Add(x); 
+                }
             }
+            
 
                 else
                 {

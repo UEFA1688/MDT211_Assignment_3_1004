@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UEFA168\\Desktop\\Assignment3\\Assignment3.csproj": {}
+    "C:\\Users\\UEFA168\\Desktop\\MDT211_Assignment_3_1004\\ข้อ1\\Assignment3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UEFA168\\Desktop\\Assignment3\\Assignment3.csproj": {
+    "C:\\Users\\UEFA168\\Desktop\\MDT211_Assignment_3_1004\\ข้อ1\\Assignment3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UEFA168\\Desktop\\Assignment3\\Assignment3.csproj",
+        "projectUniqueName": "C:\\Users\\UEFA168\\Desktop\\MDT211_Assignment_3_1004\\ข้อ1\\Assignment3.csproj",
         "projectName": "Assignment3",
-        "projectPath": "C:\\Users\\UEFA168\\Desktop\\Assignment3\\Assignment3.csproj",
+        "projectPath": "C:\\Users\\UEFA168\\Desktop\\MDT211_Assignment_3_1004\\ข้อ1\\Assignment3.csproj",
         "packagesPath": "C:\\Users\\UEFA168\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UEFA168\\Desktop\\Assignment3\\obj\\",
+        "outputPath": "C:\\Users\\UEFA168\\Desktop\\MDT211_Assignment_3_1004\\ข้อ1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UEFA168\\AppData\\Roaming\\NuGet\\NuGet.Config",
