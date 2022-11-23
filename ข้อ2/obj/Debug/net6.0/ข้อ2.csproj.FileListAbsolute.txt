@@ -1,0 +1,15 @@
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\bin\Debug\net6.0\ข้อ2.exe
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\bin\Debug\net6.0\ข้อ2.deps.json
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\bin\Debug\net6.0\ข้อ2.runtimeconfig.json
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\bin\Debug\net6.0\ข้อ2.dll
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\bin\Debug\net6.0\ข้อ2.pdb
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\obj\Debug\net6.0\ข้อ2.csproj.AssemblyReference.cache
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\obj\Debug\net6.0\ข้อ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\obj\Debug\net6.0\ข้อ2.AssemblyInfoInputs.cache
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\obj\Debug\net6.0\ข้อ2.AssemblyInfo.cs
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\obj\Debug\net6.0\ข้อ2.csproj.CoreCompileInputs.cache
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\obj\Debug\net6.0\ข้อ2.dll
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\obj\Debug\net6.0\refint\ข้อ2.dll
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\obj\Debug\net6.0\ข้อ2.pdb
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\obj\Debug\net6.0\ข้อ2.genruntimeconfig.cache
+C:\Users\UEFA168\Desktop\MDT211_Assignment_3_1004\ข้อ2\obj\Debug\net6.0\ref\ข้อ2.dll
