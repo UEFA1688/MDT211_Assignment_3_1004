@@ -5,7 +5,7 @@ public class Prayut
         {
             Console.WriteLine("");
             Console.WriteLine("");
-            Console.WriteLine("Input Flower");
+            Console.WriteLine("Input Fruit");
             return Char.ToUpper((Console.ReadKey().KeyChar));
         }
 
